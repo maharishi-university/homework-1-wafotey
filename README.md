@@ -22,6 +22,7 @@
 * Go to: Billing Dashboard → Preferences.
 * Enable billing alerts and set up an email notification.
 * Take a screenshot of the billing alert settings.
+* 
 
 5. Use your root account to create Budget Alert:
 * Go to: AWS Budgets → Create Budget.
